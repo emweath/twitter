@@ -23,6 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-ezgif-7-f10e5f46797d.gif
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+http://g.recordit.co/AO0Mm9R1O5.gif
